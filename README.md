@@ -64,7 +64,7 @@ ZERODHA/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/adityaom589/Stock-Trading-Platform
+git clone https://github.com/glanceabhishek/Stock-Trading-Platform
 cd Stock-Trading-Platform
 ```
 
@@ -206,8 +206,8 @@ DASHBOARD_URL=stock-trading-platform-nfb3.vercel.app
 ---
 ## 👤 Author
 
-**Aditya Maurya**  
-GitHub: [@adityaom589](https://github.com/adityaom589)
+**Abhishek Mishra**  
+GitHub: [@glanceabhishek](https://github.com/glanceabhishek)
 
 ---
 
